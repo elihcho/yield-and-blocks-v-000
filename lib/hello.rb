@@ -7,6 +7,8 @@ def hello_t(array)
       i += 1
     end
     array
+  else
+    pust "Hey! No block was given!"
   end
 end
 
